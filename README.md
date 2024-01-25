@@ -7,12 +7,12 @@ A basic HTML calculator with JavaScript functionality for performing arithmetic 
 
 ## Features
 
--Addition
--Subtraction
--Multiplication
--Division
--Clear button to reset the calculator
--Error handling for division by zero
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Clear button to reset the calculator
+6. Error handling for division by zero
 
 ## Technologies Used
 
@@ -40,5 +40,5 @@ multiply(a, b): Multiply two numbers.
 - `script.js`: The JavaScript file for handling the logic of drawing and user interactions.
 
 ##Known Issues
--Pressing "=" before entering all numbers or an operator may cause unexpected behavior.
--Division by zero will display an error message.
+- Pressing "=" before entering all numbers or an operator may cause unexpected behavior.
+- Division by zero will display an error message.
