@@ -24,14 +24,14 @@ A basic HTML calculator with JavaScript functionality for performing arithmetic 
 Visit the website : [Calculator](https://calculator-coral-eta.vercel.app/)
 
 ##Functions
--appendNumber(num): Append a digit to the current number.
--setOperator(op): Set the operator for the calculation.
--clearDisplay(): Clear the calculator display.
--calculateResult(): Perform the calculation based on the provided numbers and operator.
--add(a, b): Add two numbers.
--subtract(a, b): Subtract the second number from the first.
-multiply(a, b): Multiply two numbers.
---divide(a, b): Divide the first number by the second.
+- appendNumber(num): Append a digit to the current number.
+- setOperator(op): Set the operator for the calculation.
+- clearDisplay(): Clear the calculator display.
+- calculateResult(): Perform the calculation based on the provided numbers and operator.
+- add(a, b): Add two numbers.
+- subtract(a, b): Subtract the second number from the first.
+- multiply(a, b): Multiply two numbers.
+- divide(a, b): Divide the first number by the second.
 
 ## Project Structure
 
