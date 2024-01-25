@@ -23,7 +23,7 @@ A basic HTML calculator with JavaScript functionality for performing arithmetic 
 ## Live Preview
 Visit the website : [Calculator](https://calculator-coral-eta.vercel.app/)
 
-##Functions
+## Functions
 - appendNumber(num): Append a digit to the current number.
 - setOperator(op): Set the operator for the calculation.
 - clearDisplay(): Clear the calculator display.
@@ -39,6 +39,6 @@ Visit the website : [Calculator](https://calculator-coral-eta.vercel.app/)
 - `styles.css`: The CSS file for styling 
 - `script.js`: The JavaScript file for handling the logic of drawing and user interactions.
 
-##Known Issues
+## Known Issues
 - Pressing "=" before entering all numbers or an operator may cause unexpected behavior.
 - Division by zero will display an error message.
